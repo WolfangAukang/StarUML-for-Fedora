@@ -16,7 +16,7 @@ else
     libVersion=x86_64
 fi
 
-version=2.8.0
+version=2.8.1
 
 libgcryptPackageName="libgcrypt.rpm"
 starUMLPackageName=StarUML-v$version-$architecture-bit.deb
