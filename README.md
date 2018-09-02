@@ -1,6 +1,6 @@
 # Script for installing StarUML on Fedora
 
-**NOTE**: For contributions, please use the testing branch, instead of master. Thanks!
+**NOTE**: Right now, Fedora is not my daily usage distro, and I'm not using StarUML anymore (left college and went into the not so obscure path of Sysadmin). So, feel free to update this project, I will gladly receive PR's and even check them in a virtual machine (I still use one with Fedora :) ). Also, for contributions, please use a testing branch, instead of committing directly to master. Thanks!
 
 This script was tested on Fedora 23-26 (even confirmed to be working with CentOS 7! Only make changes to script in case of using yum) . It downloads the version 2.80 of StarUML from its webpage. In case they update their version, please indicate it to me to test a new installation script (or maybe only change its version, hopefully).
 
