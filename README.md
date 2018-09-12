@@ -1,4 +1,4 @@
-# Script for installing StarUML 3 on Fedora
+# Script for installing StarUML 2.81 on Fedora
 
 **NOTE**: **Moved to https://gitlab.com/WolfangAukang/StarUML-3-Installer, which uses AppImage and is distro-free installer**. As now StarUML is offering version 3 with AppImage and latest 2.X version is 2.8.1, this script is obsolete.
 
